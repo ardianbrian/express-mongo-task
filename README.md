@@ -22,7 +22,7 @@ Simple REST API with user authentication (JWT) and task management.
 
 ```bash
 # Clone repo
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/ardianbrian/express-mongo-task.git
 cd repo-name
 
 # Install dependencies
